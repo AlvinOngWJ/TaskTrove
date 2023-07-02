@@ -1,5 +1,4 @@
-# TaskTrove
-# React Todo App with Prioritization, Quick Entry, and Drag-and-Drop Features
+# TaskTrove Todo App with Prioritization, Quick Entry, and Drag-and-Drop Features
 
 This is a robust Todo application built using React and Express.js. The application provides a user-friendly interface to manage, organize, and prioritize your tasks with ease.
 
